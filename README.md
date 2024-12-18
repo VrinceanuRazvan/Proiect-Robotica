@@ -114,10 +114,10 @@ The electrical schematic details the wiring setup:
 ### Hardware Assembly Photos
 
 1. **Hardware Setup - Full View**  
-   ![Hardware Full View](img/Hardware_Full_View.jpg)
+   ![Hardware Full View](img/Hardware_Full_View.jpeg)
 
 2. **Close-up of Key Connections**  
-   ![Hardware Close-up](img/Hardware_Closeup.jpg)
+   ![Hardware Close-up](img/Hardware_Closeup.jpeg)
 
 ---
 
