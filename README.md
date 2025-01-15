@@ -92,15 +92,21 @@ The remote-controlled boat operates as follows:
 
 The block diagram illustrates how each component is interconnected:
 
-![Old Block Diagram](img/Schema%20Bloc.png)
-![New Block Diagram](img/Schema%20Bloc_New.png)
+- **Old Block Diagram**:  
+  ![Old Block Diagram](img/Schema%20Bloc.png)
+
+- **New Block Diagram**:  
+  ![New Block Diagram](img/Schema%20Bloc_New.png)
 
 ### Electrical Diagram
 
 The electrical schematic details the wiring setup:
 
-![Old Circuit Diagram](img/Tinkercad.jpg)
-![New Circuit Diagram](img/Tinkercad_New.jpg)
+- **Old Circuit Diagram**:  
+  ![Old Circuit Diagram](img/Tinkercad.jpg)
+
+- **New Circuit Diagram**:  
+  ![New Circuit Diagram](img/Tinkercad_New.png)
 
 ---
 
@@ -139,10 +145,14 @@ With the addition of two power supplies and a larger motor, the boat has become 
 
 1. **Old Hardware Setup - Full View**  
    ![Old Hardware Full View](img/Hardware_Full_View.jpeg)
+   
+2. **New Hardware Setup - Full View**  
    ![New Hardware Full View](img/Hardware_Full_View_New.jpeg)
 
-2. **Old Close-up of Key Connections**  
+3. **Old Close-up of Key Connections**  
    ![Old Hardware Close-up](img/Hardware_Closeup.jpeg)
+
+4. **New Close-up of Key Connections**  
    ![New Close-up of Key Connections](img/Hardware_Closeup_New.jpeg)
 
 ---
