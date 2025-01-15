@@ -4,10 +4,10 @@
 
 // Pin Definitions
 const int IR_RECEIVER_PIN = 2; // Pin for the TSOP1838
-const int EN1 = 9;             // Enable pin for Motor 1 (PWM, Timer1)
-const int IN1 = 7;             // Input 1 for Motor 1
-const int IN2 = 8;             // Input 2 for Motor 1
-const int SERVO_PIN = 6;       // Pin for the Servo (Using ServoTimer2)
+const int EN1 = 6;             // Enable pin for Motor 1 (PWM, Timer1)
+const int IN1 = 8;             // Input 1 for Motor 1
+const int IN2 = 7;             // Input 2 for Motor 1
+const int SERVO_PIN = 3;       // Pin for the Servo (Using ServoTimer2)
 
 // Create ServoTimer2 object
 Servo myServo;
@@ -36,7 +36,7 @@ void setup() {
   digitalWrite(IN1, LOW);
   digitalWrite(IN2, LOW);
 
-  // // Servo setup using ServoTimer2
+  // Servo setup using ServoTimer2
   myServo.attach(SERVO_PIN);
   myServo.write(90); // Set servo to neutral position
 
@@ -101,7 +101,7 @@ void toggleMotor() {
   if (motorOn) {
     motorSpeed = 128; // Start at 50% of max speed (PWM: 128)
     analogWrite(EN1, motorSpeed);
-    setMotorDirection(true); // Default to forward
+    setMotorDirection(false); // Default to forward
     Serial.println("[DEBUG] Motor ON at 50% speed (PWM: 128)");
     Serial.println("[DEBUG] Motor Direction: Forward");
   } else {
