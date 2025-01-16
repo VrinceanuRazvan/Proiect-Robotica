@@ -147,8 +147,8 @@ With the addition of two power supplies and a larger motor, the boat has become 
 1. **Old Hardware Setup - Full View**  
    ![Old Hardware Full View](img/Hardware_Full_View.jpeg)
    
-2. **New Hardware Setup - Full View**  
-   ![New Hardware Full View](img/Hardware_Full_View_New.jpeg)
+2. **Old Hardware Setup - Closeup**  
+   ![New Hardware Full View](img/Hardware_Closeup.jpeg)
 
 3. **Side View**  
    ![Old Hardware Close-up](img/SideView.jpeg)
