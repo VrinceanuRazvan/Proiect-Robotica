@@ -13,6 +13,7 @@
 - [Conclusions and Future Work](#conclusions-and-future-work)
 - [Appendix](#appendix)
 - [References](#references)
+- [Video Demonstrations](#video-demonstrations)
 
 ---
 
@@ -149,11 +150,23 @@ With the addition of two power supplies and a larger motor, the boat has become 
 2. **New Hardware Setup - Full View**  
    ![New Hardware Full View](img/Hardware_Full_View_New.jpeg)
 
-3. **Old Close-up of Key Connections**  
-   ![Old Hardware Close-up](img/Hardware_Closeup.jpeg)
+3. **Side View**  
+   ![Old Hardware Close-up](img/SideView.jpeg)
 
-4. **New Close-up of Key Connections**  
-   ![New Close-up of Key Connections](img/Hardware_Closeup_New.jpeg)
+4. **Top View**  
+   ![New Close-up of Key Connections](img/TopView.jpeg)
+
+---
+
+## Video Demonstrations
+
+To display video thumbnails in your README, you can use the following format, replacing `video_id` with the actual YouTube video ID:
+
+1. **Servo Direction Demonstration**:  
+   [![Servo Direction Video](https://img.youtube.com/vi/nm9VdqjsRak/0.jpg)](https://youtube.com/shorts/nm9VdqjsRak?feature=share)
+
+2. **Full Boat Demonstration**:  
+   [![Full Boat Video](https://img.youtube.com/vi/U_ve2QybFQo/0.jpg)](https://youtube.com/shorts/U_ve2QybFQo?feature=share)
 
 ---
 
